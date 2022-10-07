@@ -1,6 +1,6 @@
 # Echarts-Fly
 - 全国航班信息在线分析系统-Echarts 大屏数据可视化展示
-- 展示地址：
+- 展示地址：https://miku01-39.github.io/Echarts-Fly/
 ## Echarts介绍
 > ECharts是一款基于JavaScript的数据可视化图表库，提供直观，生动，可交互，可个性化定制的数据可视化图表。ECharts最初由百度团队开源，并于2018年初捐赠给Apache基金会，成为ASF孵化级项目。Echarts底层依赖矢量图形库 [ZRender](https://github.com/ecomfe/zrender)，提供直观，交互丰富，可高度个性化定制的数据可视化图表。
 <h5>主要功能：</h5>
@@ -14,7 +14,7 @@
 - Echarts
 - Webpack
 ## 项目展示
-展示地址： 
+展示地址： https://miku01-39.github.io/Echarts-Fly/
 ![echarts.png](./images/Echarts.png)
 ## 参考资料
 - [官网地址](https://echarts.apache.org/zh/index.html)
